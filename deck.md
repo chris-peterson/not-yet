@@ -6,11 +6,10 @@ backgroundImage: "linear-gradient(to bottom right, #5f5f9f7f, white)"
 paginate: true
 _paginate: false
 ---
-<!--
--->
+
 # not yet
 
-## navigating "I don't know"
+### how to navigate "I don't know"
 
 ![bg left opacity:.8](./resources/iStock-1199606096.jpg)
 
@@ -18,7 +17,7 @@ _paginate: false
 
 # Overview
 
-* dunning kruger
+* toxic culture
 * purple links
 * inclusion
 * vulnerability
@@ -27,8 +26,14 @@ _paginate: false
 
 <blockquote class="twitter-tweet" data-align="center" data-width="500">
   <p lang="en" dir="ltr">It’s ok to have Imposter Syndrome! You’re not alone. <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/codetok?src=hash&amp;ref_src=twsrc%5Etfw">#codetok</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/HUgSWhwdlA">https://t.co/HUgSWhwdlA</a> <a href="https://t.co/lh25J0YGlM">pic.twitter.com/lh25J0YGlM</a></p>&mdash; Scott Hanselman (@shanselman) <a href="https://twitter.com/shanselman/status/1348399361521111040?ref_src=twsrc%5Etfw">January 10, 2021</a>
-</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
+
+# [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
+---
+
+![bg](https://thisisindexed.com/wp-content/uploads/2012/05/card3259.jpg)
 
 ---
 
@@ -69,14 +74,28 @@ h3 {
 
 ---
 
+# What can we do to shift toward growth-based?
+
+* Be vulnerable
+* Take accountability
+* Celebrate the process
+* Learn from each other
+* Share your work
+
+---
+
+![bg fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
+
+---
 # References
 
-* https://www.goodreads.com/book/show/40745.Mindset
-* https://www.youtube.com/watch?v=-71zdXCMU6A
-* https://www.youtube.com/watch?v=_X0mgOOSpLU
-* https://hanselminutes.com/389/the-agile-mindset-with-linda-rising
-* https://www.hanselman.com/blog/im-a-phony-are-you
-* https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15
+#### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
+#### [The Growth Mindset | Carol Dweck | Talks at Google](https://www.youtube.com/watch?v=-71zdXCMU6A)
+#### [The Power of Yet](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+#### [The Agile Mindset - And Beyond • Linda Rising • GOTO 2012](https://www.youtube.com/watch?v=C13JC_YP2Q8&t=2545s)
+#### [The Agile Mindset with Linda Rising](https://hanselminutes.com/389/the-agile-mindset-with-linda-rising)
+#### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
+#### https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15
 
 ---
 
