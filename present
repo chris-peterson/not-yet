@@ -1,0 +1,5 @@
+#!/bin/sh
+
+marp --html --server . &
+sleep 2
+open http://localhost:8080/deck.md
