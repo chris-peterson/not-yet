@@ -126,7 +126,6 @@ h3 {
 ## "10x"
 #### [The mythical 10x programmer](http://antirez.com/news/112)
 #### [The “10X Engineer” Has Officially Become a Meme](https://www.7pace.com/blog/10x-engineers)
-#### 
 
 ---
 
