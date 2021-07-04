@@ -2,40 +2,60 @@
 marp: true
 theme: default
 title: not yet
-backgroundImage: "linear-gradient(to bottom right, #5f5f9f7f, white)"
+backgroundImage: "linear-gradient(to bottom right, #5f5f7f7f, white)"
 paginate: true
 _paginate: false
 ---
 
 # not yet
 
-### how to navigate "I don't know"
+### navigating "I don't know"
 
 ![bg left opacity:.8](./resources/iStock-1199606096.jpg)
 
 ---
 
-# Overview
-
-* toxic culture
-* purple links
-* inclusion
-* vulnerability
-
----
+<!-- rare bit of vulnerability -- it is OK to not know! -->
 
 <blockquote class="twitter-tweet" data-align="center" data-width="500">
   <p lang="en" dir="ltr">It’s ok to have Imposter Syndrome! You’re not alone. <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/codetok?src=hash&amp;ref_src=twsrc%5Etfw">#codetok</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/HUgSWhwdlA">https://t.co/HUgSWhwdlA</a> <a href="https://t.co/lh25J0YGlM">pic.twitter.com/lh25J0YGlM</a></p>&mdash; Scott Hanselman (@shanselman) <a href="https://twitter.com/shanselman/status/1348399361521111040?ref_src=twsrc%5Etfw">January 10, 2021</a>
 </blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
-
-# [Dunning-Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
----
-
-![bg](https://thisisindexed.com/wp-content/uploads/2012/05/card3259.jpg)
+<!-- let's find more examples! -->
+![bg fit vulnerability in tech](./resources/search_bar.png)
 
 ---
+
+![bg 75% vulnerability in tech](./resources/vulnerability_in_tech.png)
+
+<!-- nope! -->
+
+---
+
+<!-- what do others say about vulnerability? -->
+
+![bg right:45% opacity:.80](./resources/iStock-1218833196.jpg)
+# Vulnerability
+## is **not weakness**, and the uncertainty, risk, and emotional exposure we face every day are **not optional**.
+# **Our only choice is a question of engagement**
+### - Brene Brown
+
+---
+
+<!-- Brene Brown frequently quotes this 1910 speech -->
+
+![bg right:55% opacity:.75](./resources/boxing_gloves.jpg)
+# Risk Takers
+### at the best: know triumph
+### and at the worst: fail while
+
+# **daring greatly**
+### - Theodore Roosevelt
+
+---
+
+<!-- related to vulnerability -- growth-based mindset research by Carol Dweck -- resources on Mixer, Marie Potter -->
 
 # Mindset
 
@@ -51,26 +71,27 @@ Opposite of this, a **fixed mindset** is when one believes that their basic qual
 
 ---
 
-![bg 80% fit](./resources/fixed_v_growth_table.jpeg)
-
----
-
 <style scoped>
 h1 {
-  color: gray;
+  color: #595252;
+}
+h2 {
+  color: #595252;
 }
 h3 {
-  color: gray;
+  color: #595252;
 }
 </style>
 
-![bg opacity:.3 blur:4px image](./resources/GettyImages-53033254.jpg)
+![bg opacity:.25 blur:5px image](./resources/GettyImages-53033254.jpg)
 
-# Michael Jordan:
+## I've **missed** more than 9000 shots in my career
+## I've **lost** almost 300 games
+## 26 times, I've been trusted to take the game winning shot and missed
+## I've failed over and over and over again...
+# and that is **why I succeed**
 
-### “I've **missed** more than 9000 shots in my career. I've **lost** almost 300 games. 26 times, I've been trusted to take the game winning shot and missed. I've **failed over and over and over again** in my life...
-
-* # .. and that is why I **succeed**”
+### - Michael Jordan
 
 ---
 
@@ -88,14 +109,24 @@ h3 {
 
 ---
 # References
-
+## Growth-Based Mindset
 #### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
 #### [The Growth Mindset | Carol Dweck | Talks at Google](https://www.youtube.com/watch?v=-71zdXCMU6A)
 #### [The Power of Yet](https://www.youtube.com/watch?v=_X0mgOOSpLU)
 #### [The Agile Mindset - And Beyond • Linda Rising • GOTO 2012](https://www.youtube.com/watch?v=C13JC_YP2Q8&t=2545s)
 #### [The Agile Mindset with Linda Rising](https://hanselminutes.com/389/the-agile-mindset-with-linda-rising)
+
+---
+# References (continued)
+
+## Imposter Syndrome
 #### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
-#### https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15
+#### [Exploring Impostor Syndrome in Technology - SXSW '15](https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15)
+
+## "10x"
+#### [The mythical 10x programmer](http://antirez.com/news/112)
+#### [The “10X Engineer” Has Officially Become a Meme](https://www.7pace.com/blog/10x-engineers)
+#### 
 
 ---
 
