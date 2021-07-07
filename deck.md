@@ -15,13 +15,19 @@ _paginate: false
 
 ---
 
-<!-- rare bit of vulnerability -- it is OK to not know! -->
-
 <blockquote class="twitter-tweet" data-align="center" data-width="500">
   <p lang="en" dir="ltr">It’s ok to have Imposter Syndrome! You’re not alone. <a href="https://twitter.com/hashtag/programming?src=hash&amp;ref_src=twsrc%5Etfw">#programming</a> <a href="https://twitter.com/hashtag/codetok?src=hash&amp;ref_src=twsrc%5Etfw">#codetok</a> <a href="https://twitter.com/hashtag/CodeNewbies?src=hash&amp;ref_src=twsrc%5Etfw">#CodeNewbies</a> <a href="https://t.co/HUgSWhwdlA">https://t.co/HUgSWhwdlA</a> <a href="https://t.co/lh25J0YGlM">pic.twitter.com/lh25J0YGlM</a></p>&mdash; Scott Hanselman (@shanselman) <a href="https://twitter.com/shanselman/status/1348399361521111040?ref_src=twsrc%5Etfw">January 10, 2021</a>
 </blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
+
+# not
+* ## vulnerability
+# yet
+* ## accountability
+
+---
+
 <!-- let's find more examples! -->
 ![bg fit vulnerability in tech](./resources/search_bar.png)
 
@@ -105,7 +111,8 @@ h3 {
 
 ---
 
-![bg fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
+## Accountability
+![bg right:66% fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
 
 ---
 # References
