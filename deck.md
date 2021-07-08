@@ -10,7 +10,7 @@ _paginate: false
 # not yet
 
 ## mastering technology with a growth-based mindset
-* ### (while dealing with imposter syndrome)
+* ### (while battling imposter syndrome)
 
 ![bg left opacity:.8](./resources/iStock-1199606096.jpg)
 
@@ -24,16 +24,34 @@ _paginate: false
 
 # Dunning-Kruger effect
 
-## a cognitive bias in which people **overestimate** their competency in a specific domain
+## a cognitive bias in which people **overestimate** their competency
 
-### caused by:
-* lack of self-awareness
-* lack of domain knowledge preculdes an accurate skill assessment
+* ### caused by:
+  * lack of self-awareness
+  * lack of domain knowledge preculdes an accurate skill assessment
   _"you don't know what you don't know"_
 
 ---
 <!-- the hello world/demo app -->
 ![bg](resources/dunning_kruger.png)
+
+---
+
+# Taking the Leap
+
+## Requires
+
+* Courage
+* Willingness to ~~fail~~ learn
+* Patience
+* Commitment <!-- there's no going back, you're in this for the long haul -->
+
+![bg left:60% opacity:.4](resources/GettyImages-1130883809.jpg)
+
+---
+
+![bg](resources/GettyImages-1187590279.jpg)
+
 ---
 
 <!-- let's find more examples! -->
