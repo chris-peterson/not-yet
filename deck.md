@@ -9,7 +9,8 @@ _paginate: false
 
 # not yet
 
-### navigating "I don't know"
+## mastering technology with a growth-based mindset
+* ### (while dealing with imposter syndrome)
 
 ![bg left opacity:.8](./resources/iStock-1199606096.jpg)
 
@@ -21,11 +22,18 @@ _paginate: false
 
 ---
 
-# not
-* ## vulnerability
-# yet
-* ## accountability
+# Dunning-Kruger effect
 
+## a cognitive bias in which people **overestimate** their competency in a specific domain
+
+### caused by:
+* lack of self-awareness
+* lack of domain knowledge preculdes an accurate skill assessment
+  _"you don't know what you don't know"_
+
+---
+<!-- the hello world/demo app -->
+![bg](resources/dunning_kruger.png)
 ---
 
 <!-- let's find more examples! -->
@@ -115,6 +123,26 @@ h3 {
 ![bg right:66% fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
 
 ---
+
+![bg fit](resources/iStock-1080392936.jpg)
+
+---
+
+[![bg](resources/iStock-811132196.jpg)
+
+---
+# Conclusion
+
+Why is the talk called "not yet"?
+### not
+* ##### vulnerability
+  * admitting you don't know
+  * sharing your "failures"
+### yet
+* #### accountability
+  * committing to finding out
+  * accepting challenges
+---
 # References
 ## Growth-Based Mindset
 #### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
@@ -129,10 +157,6 @@ h3 {
 ## Imposter Syndrome
 #### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
 #### [Exploring Impostor Syndrome in Technology - SXSW '15](https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15)
-
-## "10x"
-#### [The mythical 10x programmer](http://antirez.com/news/112)
-#### [The “10X Engineer” Has Officially Become a Meme](https://www.7pace.com/blog/10x-engineers)
 
 ---
 
