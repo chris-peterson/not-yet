@@ -9,8 +9,9 @@ _paginate: false
 
 # not yet
 
-## mastering technology with a growth-based mindset
-* ### (while battling imposter syndrome)
+### using a growth-based mindset to master technology
+* (while combatting
+  imposter syndrome)
 
 ![bg left opacity:.8](./resources/iStock-1199606096.jpg)
 
@@ -24,12 +25,16 @@ _paginate: false
 
 # Dunning-Kruger effect
 
+<!--  social psychologists -->
+<!--  Kruger, Justin; Dunning, David (1999). "Unskilled and Unaware of It: How Difficulties in Recognizing One's Own Incompetence Lead to Inflated Self-Assessments" -->
+
 ## a cognitive bias in which people **overestimate** their competency
 
-* ### caused by:
+* ### caused by
+
   * lack of self-awareness
-  * lack of domain knowledge preculdes an accurate skill assessment
-  _"you don't know what you don't know"_
+  * insufficient domain knowledge to have an accurate self-assessment
+  aka _"you don't know what you don't know"_
 
 ---
 <!-- the hello world/demo app -->
@@ -37,44 +42,91 @@ _paginate: false
 
 ---
 
-# Taking the Leap
+# Taking the leap
 
 ## Requires
 
 * Courage
-* Willingness to ~~fail~~ learn
 * Patience
-* Commitment <!-- there's no going back, you're in this for the long haul -->
+* Willingness to ~~fail~~ _learn_
 
 ![bg left:60% opacity:.4](resources/GettyImages-1130883809.jpg)
 
 ---
 
-![bg](resources/GettyImages-1187590279.jpg)
+# Courage
+
+![bg opacity:.1](resources/iStock-1187050618.jpg)
+
+- ### Leaving the comfort of the known for the **unknown**
+- ### Being **vulnerable**
 
 ---
 
 <!-- let's find more examples! -->
-![bg fit vulnerability in tech](./resources/search_bar.png)
+![bg:20% vulnerability in tech](./resources/search_bar.png)
 
 ---
-
-![bg 75% vulnerability in tech](./resources/vulnerability_in_tech.png)
 
 <!-- nope! -->
+![bg 75% vulnerability in tech](./resources/vulnerability_in_tech.png)
 
 ---
 
-<!-- what do others say about vulnerability? -->
+<!-- related to vulnerability -- growth-based mindset research by Carol Dweck mid-2000s -->
+<!-- https://gettyimages.sharepoint.com/sites/cultureanddevelopment/SitePages/GrowthMindset.aspx resources on SharePoint, Marie Potter -->
+# Two Mindsets
 
-![bg right:45% opacity:.80](./resources/iStock-1218833196.jpg)
-# Vulnerability
-## is **not weakness**, and the uncertainty, risk, and emotional exposure we face every day are **not optional**.
-# **Our only choice is a question of engagement**
-### - Brene Brown
+
+<style scoped>
+h5.strong {
+  color: red;
+}
+</style>
+
+![bg opacity:.2](resources/iStock-1226297372.jpg)
+
+##### **fixed mindset**: belief that basic qualities, like intelligence or talent, are static attributes. They spend their time documenting their intelligence or talent rather than developing them.  They also believe that talent alone (without effort) creates success.  Some might go as far as to eschew effort of others.
+
+<br/>
+<br/>
+
+##### **growth mindset**: abilities can be developed and, therefore, extra time and effort makes you stronger and can result in higher achievement.
+
+---
+# Patience
+
+## Learning takes **time**
+
+![bg right fit](resources/iStock-1080392936-1.png)
 
 ---
 
+## Learning is **non-linear**
+
+![bg right fit](resources/iStock-1080392936-2.png)
+
+---
+
+## Everyone has a **unique path**
+
+![bg left fit](resources/example_technology_progression.png)
+
+---
+
+# Willingness to ~~fail~~ learn
+
+---
+
+# Why bother?
+
+![bg right:70% opacity:.45](./resources/iStock-872831978.jpg)
+
+---
+
+![bg fit](./resources/hill_v_mountain.jpg)
+
+---
 <!-- Brene Brown frequently quotes this 1910 speech -->
 
 ![bg right:55% opacity:.75](./resources/boxing_gloves.jpg)
@@ -86,20 +138,6 @@ _paginate: false
 ### - Theodore Roosevelt
 
 ---
-
-<!-- related to vulnerability -- growth-based mindset research by Carol Dweck -- resources on Mixer, Marie Potter -->
-
-# Mindset
-
-When you have a **growth mindset** you understand that your abilities can be developed and, therefore, extra time and effort makes you stronger and can result in higher achievement.
-
-<br/>
-
-Opposite of this, a **fixed mindset** is when one believes that their basic qualities, like their intelligence or talent, are simply fixed traits. They spend their time documenting their intelligence or talent instead of developing them. They also believe that talent alone creates success—without effort.
-
----
-
-![bg fit](https://evolvingeducation.org/wp-content/uploads/2019/01/Fixed-vs-growth-mindset-graph.png)
 
 ---
 
@@ -139,15 +177,6 @@ h3 {
 
 ## Accountability
 ![bg right:66% fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
-
----
-
-![bg fit](resources/iStock-1080392936.jpg)
-
----
-
-[![bg](resources/iStock-811132196.jpg)
-
 ---
 # Conclusion
 
@@ -163,18 +192,20 @@ Why is the talk called "not yet"?
 ---
 # References
 ## Growth-Based Mindset
-#### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
-#### [The Growth Mindset | Carol Dweck | Talks at Google](https://www.youtube.com/watch?v=-71zdXCMU6A)
-#### [The Power of Yet](https://www.youtube.com/watch?v=_X0mgOOSpLU)
-#### [The Agile Mindset - And Beyond • Linda Rising • GOTO 2012](https://www.youtube.com/watch?v=C13JC_YP2Q8&t=2545s)
-#### [The Agile Mindset with Linda Rising](https://hanselminutes.com/389/the-agile-mindset-with-linda-rising)
+- #### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
+- #### [The Growth Mindset | Carol Dweck | Talks at Google](https://www.youtube.com/watch?v=-71zdXCMU6A)
+- #### [The Power of Yet](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+- #### [The Agile Mindset - And Beyond • Linda Rising • GOTO 2012](https://www.youtube.com/watch?v=C13JC_YP2Q8&t=2545s)
+- #### [The Agile Mindset with Linda Rising](https://hanselminutes.com/389/the-agile-mindset-with-linda-rising)
 
 ---
 # References (continued)
 
+## Dunning Kruger
+- #### TBD
 ## Imposter Syndrome
-#### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
-#### [Exploring Impostor Syndrome in Technology - SXSW '15](https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15)
+- #### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
+- #### [Exploring Impostor Syndrome in Technology - SXSW '15](https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15)
 
 ---
 
@@ -188,4 +219,4 @@ on
 
 # Questions
 
-![bg opacity blur](./resources/iStock-1169898232.jpg)
+![bg opacity:.3](./resources/iStock-1169898232.jpg)
