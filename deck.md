@@ -119,11 +119,11 @@ _backgroundImage: "linear-gradient(to bottom right, gray, lightblue)"
 
 ## Relationship Between Mindset and Imposter Syndrome
 
-**Imposter syndrome** reenforces a _fixed mindset_ ways of thinking
+**Imposter syndrome** reenforces _fixed mindset_ ways of thinking
 
 * "I'm not smart enough"
 * "This shouldn't take this long"
-* critical of _attributes_ rather than the path forward
+* criticism is _attribute_-based rather than focusing on the path forward
 
 ---
 
