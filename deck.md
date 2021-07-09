@@ -77,21 +77,24 @@ _paginate: false
 <!-- https://gettyimages.sharepoint.com/sites/cultureanddevelopment/SitePages/GrowthMindset.aspx resources on SharePoint, Marie Potter -->
 # Two Mindsets
 
-
 <style scoped>
-h5.strong {
-  color: red;
-}
+  fixed {
+    color: firebrick;
+    font-weight: bold
+  }
+  growth {
+    color: green;
+    font-weight: bold
+  }
 </style>
 
-![bg opacity:.2](resources/iStock-1226297372.jpg)
+![bg opacity:.1](resources/iStock-1226297372.jpg)
 
-##### **fixed mindset**: belief that basic qualities, like intelligence or talent, are static attributes. They spend their time documenting their intelligence or talent rather than developing them.  They also believe that talent alone (without effort) creates success.  Some might go as far as to eschew effort of others.
+<fixed>fixed mindset</fixed>: belief that basic qualities, like intelligence or talent, are static attributes. Time is spent documenting intelligence or talent rather than developing capabilities.  Hard work and effort are eschewed as success is determined strictly from inherent ability.
 
-<br/>
-<br/>
+<p></p>
 
-##### **growth mindset**: abilities can be developed and, therefore, extra time and effort makes you stronger and can result in higher achievement.
+<growth>growth mindset</growth>: belief that abilities can be developed and, therefore, extra time and effort results in increased skill.  Hard work is expected, and when it yields positive results, praised.
 
 ---
 # Patience
@@ -110,34 +113,19 @@ h5.strong {
 
 ## Everyone has a **unique path**
 
-![bg left fit](resources/example_technology_progression.png)
+![bg right fit](resources/example_technology_progression.png)
 
 ---
 
 # Willingness to ~~fail~~ learn
 
----
+Skill acquisition (particularly in technology) is often trial-and-error.
 
-# Why bother?
-
-![bg right:70% opacity:.45](./resources/iStock-872831978.jpg)
-
----
-
-![bg fit](./resources/hill_v_mountain.jpg)
-
----
-<!-- Brene Brown frequently quotes this 1910 speech -->
-
-![bg right:55% opacity:.75](./resources/boxing_gloves.jpg)
-# Risk Takers
-### at the best: know triumph
-### and at the worst: fail while
-
-# **daring greatly**
-### - Theodore Roosevelt
-
----
+* Types of error feedback
+  * linter / compiler
+  * peer review
+  * testing
+  * bugs
 
 ---
 
@@ -162,6 +150,26 @@ h3 {
 # and that is **why I succeed**
 
 ### - Michael Jordan
+---
+
+# Why bother?
+
+![bg right:70% opacity:.45](./resources/iStock-872831978.jpg)
+
+---
+
+![bg fit](./resources/hill_v_mountain.jpg)
+
+---
+<!-- Brene Brown frequently quotes this 1910 speech -->
+
+![bg right:55% opacity:.75](./resources/boxing_gloves.jpg)
+# Risk Takers
+### at the best: know triumph
+### and at the worst: fail while
+
+# **daring greatly**
+### - Theodore Roosevelt
 
 ---
 
