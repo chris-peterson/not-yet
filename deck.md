@@ -178,6 +178,8 @@ Skill acquisition (particularly in technology) is often trial-and-error.
 
 # Community learning
 
+![bg right opacity:.6](./resources/iStock-1208498440.jpg)
+
 * Open source
 * Meetup groups
 * Conferences / workshops
@@ -247,6 +249,9 @@ _backgroundImage: "linear-gradient(to bottom right, black, black)"
 -->
 
 <style scoped>
+h1 {
+  color: slategray;
+}
 h2 {
   color: ivory;
 }
@@ -254,6 +259,7 @@ h2 {
 
 ![bg opacity:.2 image](./resources/GettyImages-53033254.jpg)
 
+# Taking the Shot
 
 ## I've **missed** more than 9000 shots in my career
 ## I've **lost** almost 300 games
@@ -269,11 +275,11 @@ h2 {
 ![bg opacity:.4](./resources/iStock-1192893429.jpg)
 
 Why was the talk called "not yet"?
-### not
+### **not**
 * ##### vulnerability
   * admitting you don't know
   * sharing your journey
-### yet
+### **yet**
 * #### accountability
   * accepting challenges
   * commitment (to yourself and others)
