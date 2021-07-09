@@ -13,7 +13,7 @@ _paginate: false
 * (while combatting
   imposter syndrome)
 
-![bg left opacity:.8](./resources/iStock-1199606096.jpg)
+![bg left opacity:.8](./resources/iStock-845175442.jpg)
 
 ---
 
@@ -23,7 +23,9 @@ _paginate: false
 
 ---
 
-### In order to better understand **imposter syndrome**, let's start with its opposite
+![bg right opacity:.6](./resources/iStock-599758466.jpg)
+
+## In order to better understand <br/>**imposter syndrome**,<br/> let's start with its opposite
 
 ---
 
@@ -76,7 +78,13 @@ _backgroundImage: "linear-gradient(to bottom right, white, white)"
 
 ---
 
-<!-- nope! -->
+<!-- nope!
+
+hard to find content -- same true for other keywords like "fraud"
+
+let's look to the field of cognitive science
+
+-->
 ![bg 75% vulnerability in tech](./resources/vulnerability_in_tech.png)
 
 ---
@@ -107,7 +115,7 @@ _backgroundImage: "linear-gradient(to bottom right, white, white)"
 ---
 # Patience
 
-## Learning takes **time**
+## Learning takes **time** <!-- and effort! -->
 
 ![bg right fit](./resources/iStock-1080392936-1.png)
 
@@ -119,13 +127,17 @@ _backgroundImage: "linear-gradient(to bottom right, white, white)"
 
 ---
 
-## Everyone has a **unique path**
+## Everyone has a **unique journey**
 
-![bg right fit](./resources/example_technology_progression.png)
+<!-- every moment is a snapshot in time of that journey -->
+
+![bg right:45% fit](./resources/example_technology_progression.png)
 
 ---
 
 # Willingness to ~~fail~~ learn
+
+![bg right fit opacity:.4](./resources/iStock-1183393108.jpg)
 
 Skill acquisition (particularly in technology) is often trial-and-error.
 
@@ -138,81 +150,133 @@ Skill acquisition (particularly in technology) is often trial-and-error.
 
 ---
 
-## Redefining "failure"
+# Independent learning
 
-### “I haven’t failed, I have just found 10000 ways that won’t work” 
-###### - Thomas Edison
+![bg left opacity:.4](./resources/iStock-1170935904.jpg)
+
+* IntelliSense
+* refactoring suggestions
+* `Ctrl + Z` <!-- good for exploring alternate syntax -->
+* interactive debugging
+* `git reset --hard`
+* `git reset HEAD~1`
+* `git push --delete origin my-branch`
+* programming books <!-- my favorite: The Pragmatic Programmer by David Thomas, Andrew Hunt-->
+* rubber duck
+
+---
+
+![bg opacity:.4](./resources/iStock-1270316979.jpg)
+
+# Organizational learning
+
+* Mentorship
+* Share your work <!-- not just code! -->
+* Pair programming
+
+---
+
+# Community learning
+
+* Open source
+* Meetup groups
+* Conferences / workshops
 
 ---
 
 <style scoped>
-h1 {
-  color: #595252;
-}
 h2 {
-  color: #595252;
+  color: khaki;
 }
 h3 {
-  color: #595252;
+  color: beige
+}
+h6 {
+  color: floralwhite
 }
 </style>
 
-![bg opacity:.25 blur:5px image](./resources/GettyImages-53033254.jpg)
+## Destigmatizing "failure"
+
+<!--
+_backgroundImage: "linear-gradient(to bottom right, black, black)"
+-->
+
+![bg opacity:.5 image](./resources/iStock-1038684900.jpg)
+
+### “I haven’t failed, I have just found <br/>10000 ways that won’t work”
+###### - Thomas Edison
+
+---
+
+<!--
+_backgroundImage: "linear-gradient(to bottom right, black, black)"
+-->
+
+<style scoped>
+h2 {
+  color: khaki;
+}
+h3 {
+  color: beige
+}
+h4 {
+  color: slategray;
+}
+h6 {
+  color: floralwhite
+}
+</style>
+
+<!-- Brene Brown frequently quotes this 1910 speech -->
+
+![bg left:65% opacity:.9](./resources/boxing_gloves.jpg)
+## Accepting Challenges
+### at the best:
+#### you'll know triumph
+### and at the worst:
+#### fail while
+
+## **daring greatly**
+###### - Theodore Roosevelt
+
+---
+
+<!--
+_backgroundImage: "linear-gradient(to bottom right, black, black)"
+-->
+
+<style scoped>
+h2 {
+  color: ivory;
+}
+</style>
+
+![bg opacity:.2 image](./resources/GettyImages-53033254.jpg)
+
 
 ## I've **missed** more than 9000 shots in my career
 ## I've **lost** almost 300 games
 ## 26 times, I've been trusted to take the game winning shot and missed
 ## I've failed over and over and over again...
-# and that is **why I succeed**
+## and that is **why I succeed**
 
-### - Michael Jordan
----
-
-# Why bother?
-
-![bg right:70% opacity:.45](./resources/iStock-872831978.jpg)
+###### - Michael Jordan
 
 ---
+# Wrapping Up
 
-![bg fit](./resources/hill_v_mountain.jpg)
+![bg opacity:.4](./resources/iStock-1192893429.jpg)
 
----
-<!-- Brene Brown frequently quotes this 1910 speech -->
-
-![bg right:55% opacity:.75](./resources/boxing_gloves.jpg)
-# Risk Takers
-### at the best: know triumph
-### and at the worst: fail while
-
-# **daring greatly**
-### - Theodore Roosevelt
-
----
-
-# What can we do to shift toward growth-based?
-
-* Be vulnerable
-* Take accountability
-* Celebrate the process
-* Learn from each other
-* Share your work
-
----
-
-## Accountability
-![bg right:66% fit](http://www.nicholasalexander-es.com/wp-content/uploads/Ladder-of-Accountability.jpg)
----
-# Conclusion
-
-Why is the talk called "not yet"?
+Why was the talk called "not yet"?
 ### not
 * ##### vulnerability
   * admitting you don't know
-  * sharing your "failures"
+  * sharing your journey
 ### yet
 * #### accountability
-  * committing to finding out
   * accepting challenges
+  * commitment (to yourself and others)
 ---
 # References
 ## Growth-Based Mindset
@@ -226,10 +290,9 @@ Why is the talk called "not yet"?
 ---
 # References (continued)
 
-## Dunning Kruger
-- #### TBD
 ## Imposter Syndrome
 - #### [I'm a phony. Are you?](https://www.hanselman.com/blog/im-a-phony-are-you)
+- #### [Dunning-Kruger Effect](https://www.psychologytoday.com/us/basics/dunning-kruger-effect)
 - #### [Exploring Impostor Syndrome in Technology - SXSW '15](https://www.hanselman.com/blog/exploring-impostor-syndrome-in-technology-sxsw-15)
 
 ---
