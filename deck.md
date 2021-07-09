@@ -23,6 +23,10 @@ _paginate: false
 
 ---
 
+### In order to better understand **imposter syndrome**, let's start with its opposite
+
+---
+
 # Dunning-Kruger effect
 
 <!--  social psychologists -->
@@ -37,8 +41,12 @@ _paginate: false
   aka _"you don't know what you don't know"_
 
 ---
+<!--
+_backgroundImage: "linear-gradient(to bottom right, white, white)"
+-->
+
 <!-- the hello world/demo app -->
-![bg](resources/dunning_kruger.png)
+![bg](./resources/dunning_kruger.png)
 
 ---
 
@@ -50,13 +58,13 @@ _paginate: false
 * Patience
 * Willingness to ~~fail~~ _learn_
 
-![bg left:60% opacity:.4](resources/GettyImages-1130883809.jpg)
+![bg left:60% opacity:.4](./resources/GettyImages-1130883809.jpg)
 
 ---
 
 # Courage
 
-![bg opacity:.1](resources/iStock-1187050618.jpg)
+![bg opacity:.2](./resources/iStock-615974212.jpg)
 
 - ### Leaving the comfort of the known for the **unknown**
 - ### Being **vulnerable**
@@ -88,32 +96,32 @@ _paginate: false
   }
 </style>
 
-![bg opacity:.1](resources/iStock-1226297372.jpg)
+![bg opacity:.1](./resources/iStock-1226297372.jpg)
 
 <fixed>fixed mindset</fixed>: belief that basic qualities, like intelligence or talent, are static attributes. Time is spent documenting intelligence or talent rather than developing capabilities.  Hard work and effort are eschewed as success is determined strictly from inherent ability.
 
 <p></p>
 
-<growth>growth mindset</growth>: belief that abilities can be developed and, therefore, extra time and effort results in increased skill.  Hard work is expected, and when it yields positive results, praised.
+<growth>growth mindset</growth>: belief that abilities can be developed and, therefore, extra time and effort results in increased skill.  Hard work is expected, and when it yields positive results, praised.  Growth-based individuals likely to set more **ambitious** goals than their fixed mindset counterparts.
 
 ---
 # Patience
 
 ## Learning takes **time**
 
-![bg right fit](resources/iStock-1080392936-1.png)
+![bg right fit](./resources/iStock-1080392936-1.png)
 
 ---
 
 ## Learning is **non-linear**
 
-![bg right fit](resources/iStock-1080392936-2.png)
+![bg right fit](./resources/iStock-1080392936-2.png)
 
 ---
 
 ## Everyone has a **unique path**
 
-![bg right fit](resources/example_technology_progression.png)
+![bg right fit](./resources/example_technology_progression.png)
 
 ---
 
@@ -123,9 +131,17 @@ Skill acquisition (particularly in technology) is often trial-and-error.
 
 * Types of error feedback
   * linter / compiler
-  * peer review
+  * experimentation
+  * code review
   * testing
   * bugs
+
+---
+
+## Redefining "failure"
+
+### “I haven’t failed, I have just found 10000 ways that won’t work” 
+###### - Thomas Edison
 
 ---
 
@@ -203,6 +219,7 @@ Why is the talk called "not yet"?
 - #### [Mindset: The New Psychology of Success](https://www.goodreads.com/book/show/40745.Mindset)
 - #### [The Growth Mindset | Carol Dweck | Talks at Google](https://www.youtube.com/watch?v=-71zdXCMU6A)
 - #### [The Power of Yet](https://www.youtube.com/watch?v=_X0mgOOSpLU)
+- #### [Growth Mindset vs. Fixed](https://positivepsychology.com/growth-mindset-vs-fixed-mindset/)
 - #### [The Agile Mindset - And Beyond • Linda Rising • GOTO 2012](https://www.youtube.com/watch?v=C13JC_YP2Q8&t=2545s)
 - #### [The Agile Mindset with Linda Rising](https://hanselminutes.com/389/the-agile-mindset-with-linda-rising)
 
