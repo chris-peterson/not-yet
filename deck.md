@@ -115,6 +115,18 @@ _backgroundImage: "linear-gradient(to bottom right, gray, lightblue)"
 <growth>growth mindset</growth>: belief that abilities can be developed and, therefore, extra time and effort results in increased skill.  Hard work is expected, and when it yields positive results, praised.  Growth-based individuals likely to set more **ambitious** goals than their fixed mindset counterparts.
 
 ---
+![bg opacity:.2](./resources/iStock-1320270636.png)
+
+## Relationship Between Mindset and Imposter Syndrome
+
+**Imposter syndrome** reenforces a _fixed mindset_ ways of thinking
+
+* "I'm not smart enough"
+* "This shouldn't take this long"
+* critical of _attributes_ rather than the path forward
+
+---
+
 # Patience
 
 ## Learning takes **time** <!-- and effort! -->
