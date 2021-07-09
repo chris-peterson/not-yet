@@ -10,8 +10,6 @@ _paginate: false
 # not yet
 
 ### using a growth-based mindset to master technology
-* (while combatting
-  imposter syndrome)
 
 ![bg left opacity:.8](./resources/iStock-845175442.jpg)
 
@@ -93,6 +91,10 @@ let's look to the field of cognitive science
 <!-- https://gettyimages.sharepoint.com/sites/cultureanddevelopment/SitePages/GrowthMindset.aspx resources on SharePoint, Marie Potter -->
 # Two Mindsets
 
+<!--
+_backgroundImage: "linear-gradient(to bottom right, gray, lightblue)"
+-->
+
 <style scoped>
   fixed {
     color: firebrick;
@@ -135,7 +137,7 @@ let's look to the field of cognitive science
 
 ---
 
-# Willingness to ~~fail~~ learn
+# Willingness to learn
 
 ![bg right fit opacity:.4](./resources/iStock-1183393108.jpg)
 
