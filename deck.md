@@ -119,7 +119,7 @@ _backgroundImage: "linear-gradient(to bottom right, gray, lightblue)"
 
 ## Relationship Between Mindset and Imposter Syndrome
 
-**Imposter syndrome** reenforces _fixed mindset_ ways of thinking
+**Imposter syndrome** re-enforces _fixed mindset_ ways of thinking
 
 * "I'm not smart enough"
 * "This shouldn't take this long"
@@ -282,6 +282,54 @@ h2 {
 ## and that is **why I succeed**
 
 ###### - Michael Jordan
+
+---
+
+
+<!--
+_backgroundImage: "linear-gradient(to bottom right, black, black)"
+-->
+
+<style scoped>
+h1 {
+  color: darksalmon
+}
+h3 {
+  color: goldenrod
+}
+h4 {
+  color: ivory
+}
+vs {
+  font-weight: bold;
+  color: lightgreen
+}
+ol {
+  color: ivory
+}
+li {
+  color: ivory
+}
+</style>
+
+
+![bg opacity:.6 image blur](./resources/iStock-1218358610.jpg)
+# Words Matter
+
+<!-- The self-esteem movement was detrimental to growth-based mindset. -->
+
+### Imagine a scenario where a parent says _"you're so smart"_
+
+### Those words land in 1 of 2 memory banks
+
+* #### the child **doesn't** believe they are smart, so this discrepancy is filed away under 'imposter syndrome'
+* #### the child **does** believe they are smart, filed away under 'fixed mindset'
+
+### <vs>vs</vs>
+
+### Same scenario, but words are _"you worked really hard -- good job"_
+
+* #### re-inforces 'growth-based mindset'
 
 ---
 # Wrapping Up
